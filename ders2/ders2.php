@@ -11,32 +11,32 @@
 <body>
     <?php
 
-    echo "<h4>Tırnak işaretleri arasındaki farklar</h4>";
+    echo "<h4>Tirnak isaretleri arasindaki farklar</h4>";
 
-    $uni = "Adnan Menderes Üniversitesi";
-    echo "Değişken içeriği: $uni";
+    $uni = "Adnan Menderes Universitesi";
+    echo "Degisken icerigi: $uni";
     echo "<br/>";
 
-    //  değişkenin ismini yazdırır
-    echo "1-Kazandığınız üniversite:" . '$uni';
+    //  degiskenin ismini yazdirir
+    echo "1-Kazandiginiz universite:" . '$uni';
     echo "<br/>";
 
-    //  değişkenin içeriğini yazdırır
-    echo "2-Kazandığınız üniversite:" . "$uni";
+    //  degiskenin icerigini yazdirir
+    echo "2-Kazandiginiz universite:" . "$uni";
     echo "<br/>";
 
-    //  değişkenin içeriğini yazdırır
-    echo "3-Kazandığınız üniversite:" . $uni;
+    //  degiskenin icerigini yazdirir
+    echo "3-Kazandiginiz universite:" . $uni;
     echo "<br/>";
 
-    //  değişkenin içeriğini yazdırır
-    echo "4-Kazandığınız üniversite:$uni";
+    //  degiskenin icerigini yazdirir
+    echo "4-Kazandiginiz universite:$uni";
     echo "<br/>";
 
-    echo "<hr><h4>Temel Matematiksel İşlemler</h4>";
+    echo "<hr><h4>Temel Matematiksel Islemler</h4>";
 
 
-    echo "<h5>Toplama işlemi</h5>";
+    echo "<h5>Toplama islemi</h5>";
 
     $sayi1 = 10;
     $sayi2 = 20;
@@ -49,7 +49,7 @@
     echo "<hr>";
 
 
-    echo "<h5>Çıkarma işlemi</h5>";
+    echo "<h5>Çıkarma işvb 0,nlemi</h5>";
 
     $sayi1 = 10;
     $sayi2 = 20;
