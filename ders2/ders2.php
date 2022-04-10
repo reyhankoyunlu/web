@@ -49,7 +49,7 @@
     echo "<hr>";
 
 
-    echo "<h5>Çıkarma işvb 0,nlemi</h5>";
+    echo "<h5>Çıkarma işlemi</h5>";
 
     $sayi1 = 10;
     $sayi2 = 20;

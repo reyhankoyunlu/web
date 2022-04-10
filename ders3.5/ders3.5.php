@@ -24,7 +24,7 @@
 
     echo "<h3>İçeriğin Küçük Harfle Yazılması</h3>";
     echo "<br>\$yazi değişkeninin küçük harfle yazılması:" . $kyazi = strtolower($byazi);
-    echo "<br>\$yazi değişkeninin küçük harfle yazılması:" . $kyazi = mb_strtolower($byazi);
+    echo "<br>\$yazi değişkeninğin küçük harfle yazılması:" . $kyazi = mb_strtolower($byazi);
     echo "<hr><br>";
 
     echo "<h3>İçeriğin İlk Harfinin Büyük Yazılması</h3>";
