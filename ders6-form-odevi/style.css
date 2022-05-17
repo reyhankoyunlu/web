@@ -1,0 +1,21 @@
+input{
+    width: 80px;
+    height: 30px;
+    display: block;
+    margin: auto;
+    border: none;
+    border-bottom: 2px solid black;
+    padding: 0 5px;
+}
+
+input:focus{
+    outline: 0;
+    width: 18%;
+    transition: 1s;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.btn, .btn:focus{
+    width: 80px;
+}
